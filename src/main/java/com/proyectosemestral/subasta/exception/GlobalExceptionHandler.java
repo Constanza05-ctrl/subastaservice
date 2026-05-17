@@ -1,4 +1,4 @@
-package com.proyectosemestral.subasta.Dto.Exception;
+package com.proyectosemestral.subasta.Exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
